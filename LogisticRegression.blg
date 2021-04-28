@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: LogisticRegression.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: reference.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 2 entries,
+            4087 wiz_defined-function locations,
+            834 strings with 7779 characters,
+and the built_in function-call counts, 1910 in all, are:
+= -- 138
+> -- 38
+< -- 18
++ -- 22
+- -- 5
+* -- 102
+:= -- 272
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 48
+cite$ -- 2
+duplicate$ -- 124
+empty$ -- 165
+format.name$ -- 7
+if$ -- 438
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 19
+newline$ -- 29
+num.names$ -- 2
+pop$ -- 49
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 139
+stack$ -- 0
+substring$ -- 114
+swap$ -- 102
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 2
+warning$ -- 0
+while$ -- 10
+width$ -- 3
+write$ -- 40
