@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  27 APR 2021 00:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  16 MAY 2021 04:11
 entering extended mode
 **./LogisticRegression.tex
 (LogisticRegression.tex
@@ -284,8 +284,10 @@ LaTeX Font Info:    ... okay on input line 12.
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
-(LogisticRegression.bbl)
+) [1{C:/Users/penab/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+] (LogisticRegression.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -297,27 +299,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{C:/Users/penab/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+[2
 
-
-
-]
-(LogisticRegression.aux) ) 
+] (LogisticRegression.aux) ) 
 Here is how much of TeX's memory you used:
- 3855 strings out of 479334
- 55603 string characters out of 2866960
- 353243 words of memory out of 3000000
- 21301 multiletter control sequences out of 15000+200000
+ 3862 strings out of 479334
+ 55652 string characters out of 2866960
+ 362258 words of memory out of 3000000
+ 21308 multiletter control sequences out of 15000+200000
  433933 words of font info for 76 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,74p,244b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}
-<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiK
-TeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/
-times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on LogisticRegression.pdf (1 page, 54485 bytes).
+ 68i,8n,74p,672b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.en
+c}<C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/M
+iKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/ur
+w/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on LogisticRegression.pdf (2 pages, 63688 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

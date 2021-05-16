@@ -21,6 +21,31 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{bb1}
+Y.~Xin, L.~Kong, Z.~Liu, Y.~Chen, Y.~Li, H.~Zhu, M.~Gao, H.~Hou, and C.~Wang,
+  ``Machine learning and deep learning methods for cybersecurity,'' \emph{Ieee
+  access}, vol.~6, pp. 35\,365--35\,381, 2018.
+
+\bibitem{bb2}
+A.~S. Lundervold and A.~Lundervold, ``An overview of deep learning in medical
+  imaging focusing on mri,'' \emph{Zeitschrift f{\"u}r Medizinische Physik},
+  vol.~29, no.~2, pp. 102--127, 2019.
+
+\bibitem{bb3}
+A.~Esteva, B.~Kuprel, R.~A. Novoa, J.~Ko, S.~M. Swetter, H.~M. Blau, and
+  S.~Thrun, ``Dermatologist-level classification of skin cancer with deep
+  neural networks,'' \emph{nature}, vol. 542, no. 7639, pp. 115--118, 2017.
+
+\bibitem{bb4}
+D.~Rajagopal \emph{et~al.}, ``Customer data clustering using data mining
+  technique,'' \emph{arXiv preprint arXiv:1112.2663}, 2011.
+
+\bibitem{bb5}
+D.~Silver, J.~Schrittwieser, K.~Simonyan, I.~Antonoglou, A.~Huang, A.~Guez,
+  T.~Hubert, L.~Baker, M.~Lai, A.~Bolton \emph{et~al.}, ``Mastering the game of
+  go without human knowledge,'' \emph{nature}, vol. 550, no. 7676, pp.
+  354--359, 2017.
+
 \bibitem{b1}
 R.~Mansoor, N.~D. Jayasinghe, and M.~M.~A. Muslam, ``A comprehensive review on
   email spam classification using machine learning algorithms,'' in \emph{2021
