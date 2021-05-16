@@ -46,16 +46,18 @@ D.~Silver, J.~Schrittwieser, K.~Simonyan, I.~Antonoglou, A.~Huang, A.~Guez,
   go without human knowledge,'' \emph{nature}, vol. 550, no. 7676, pp.
   354--359, 2017.
 
-\bibitem{b1}
-R.~Mansoor, N.~D. Jayasinghe, and M.~M.~A. Muslam, ``A comprehensive review on
-  email spam classification using machine learning algorithms,'' in \emph{2021
-  International Conference on Information Networking (ICOIN)}.\hskip 1em plus
-  0.5em minus 0.4em\relax IEEE, 2021, pp. 327--332.
+\bibitem{bb7}
+J.~M.~F. Sandoval(Eds.), ``From natural to artificial neural computation :
+  International workshop on artificial neural networks, malaga-torremolinos,
+  spain, june 7-9, 1995 : proceedings : International workshop on artificial
+  neural networks (1995 : Torremolinos, spain) : Free download, borrow, and
+  streaming : Internet archive,''
+  \url{https://archive.org/details/fromnaturaltoart1995inte/page/194/mode/2up},
+  (Accessed).
 
-\bibitem{b2}
-F.~Bu and Q.~Xie, ``Research on emergency evacuation traffic trip generation
-  forecasting based on logistic regression,'' in \emph{2010 IEEE International
-  Conference on Emergency Management and Management Sciences}.\hskip 1em plus
-  0.5em minus 0.4em\relax IEEE, 2010, pp. 504--507.
+\bibitem{img}
+Wikipedia, ``Sigmoid function,''
+  \url{https://en.wikipedia.org/wiki/Sigmoid\_function}, (Accessed on
+  05/16/2021).
 
 \end{thebibliography}
