@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  16 MAY 2021 18:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  16 MAY 2021 18:50
 entering extended mode
 **./LogisticRegression.tex
 (LogisticRegression.tex
@@ -305,11 +305,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
 
 ]
-<figs/Lfunction.png, id=11, 1041.8925pt x 685.8122pt>
+<figs/Lfunction.png, id=11, 414.79968pt x 286.06876pt>
 File: figs/Lfunction.png Graphic file (type png)
 <use figs/Lfunction.png>
 Package pdftex.def Info: figs/Lfunction.png  used on input line 92.
-(pdftex.def)             Requested size: 250.05931pt x 164.59828pt.
+(pdftex.def)             Requested size: 257.17314pt x 177.3608pt.
+
+Overfull \hbox (5.17314pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--108
 
@@ -376,7 +381,7 @@ public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utm
 b8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program 
 Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on LogisticRegression.pdf (2 pages, 191950 bytes).
+Output written on LogisticRegression.pdf (2 pages, 124857 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
