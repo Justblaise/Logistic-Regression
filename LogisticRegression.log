@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  31 MAY 2021 04:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  31 MAY 2021 05:08
 entering extended mode
 **./LogisticRegression.tex
 (LogisticRegression.tex
@@ -449,29 +449,39 @@ File: figs/matrix.png Graphic file (type png)
 <use figs/matrix.png>
 Package pdftex.def Info: figs/matrix.png  used on input line 220.
 (pdftex.def)             Requested size: 101.5551pt x 57.19156pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
+
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 225--231
+\OT1/ptm/m/n/10 1. At the top left, it shows that the sys-tem cor-rectly
+ []
+
 <figs/PredictL.png, id=36, 603.0028pt x 454.69875pt>
 File: figs/PredictL.png Graphic file (type png)
 <use figs/PredictL.png>
-Package pdftex.def Info: figs/PredictL.png  used on input line 234.
+Package pdftex.def Info: figs/PredictL.png  used on input line 235.
 (pdftex.def)             Requested size: 283.41135pt x 213.70844pt.
 
-Overfull \hbox (31.41135pt too wide) in paragraph at lines 234--235
+Overfull \hbox (31.41135pt too wide) in paragraph at lines 235--236
  [][] 
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 248--253
+Underfull \hbox (badness 4819) in paragraph at lines 249--254
 \OT1/ptm/m/n/10 other clas-si-fi-ca-tion ma-chine learn-ing al-go-rithms across
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--253
+Underfull \hbox (badness 10000) in paragraph at lines 249--254
 
  []
 
-(LogisticRegression.bbl [4 <./figs/classTest.png> <./figs/matrix.png> <./figs/P
-redictL.png>]
+[4 <./figs/classTest.png> <./figs/matrix.png> <./figs/PredictL.png>]
+(LogisticRegression.bbl
 Underfull \hbox (badness 5446) in paragraph at lines 50--57
 \OT1/ptm/m/n/8 : In-ter-na-tional work-shop on ar-ti-fi-cial neu-ral net-works,
  malaga-
@@ -537,7 +547,7 @@ am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKT
 eX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/ti
 mes/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/P
 rogram Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on LogisticRegression.pdf (5 pages, 374871 bytes).
+Output written on LogisticRegression.pdf (5 pages, 374906 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
