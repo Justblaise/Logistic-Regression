@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  17 MAY 2021 02:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  31 MAY 2021 04:53
 entering extended mode
 **./LogisticRegression.tex
 (LogisticRegression.tex
@@ -248,7 +248,32 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box51
 )
-(LogisticRegression.aux)
+(LogisticRegression.aux
+
+LaTeX Warning: Label `dabc' multiply defined.
+
+
+LaTeX Warning: Label `dabc' multiply defined.
+
+
+LaTeX Warning: Label `dabc' multiply defined.
+
+
+LaTeX Warning: Label `dabc' multiply defined.
+
+
+LaTeX Warning: Label `dabc' multiply defined.
+
+
+LaTeX Warning: Label `dabc' multiply defined.
+
+
+LaTeX Warning: Label `dabc' multiply defined.
+
+
+LaTeX Warning: Label `dabc' multiply defined.
+
+)
 \openout1 = `LogisticRegression.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -308,19 +333,145 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 <figs/Lfunction.png, id=11, 414.79968pt x 286.06876pt>
 File: figs/Lfunction.png Graphic file (type png)
 <use figs/Lfunction.png>
-Package pdftex.def Info: figs/Lfunction.png  used on input line 92.
+Package pdftex.def Info: figs/Lfunction.png  used on input line 89.
 (pdftex.def)             Requested size: 257.17314pt x 177.3608pt.
 
-Overfull \hbox (5.17314pt too wide) in paragraph at lines 92--93
+Overfull \hbox (5.17314pt too wide) in paragraph at lines 89--90
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--108
+Underfull \hbox (badness 10000) in paragraph at lines 99--104
 
  []
 
-(LogisticRegression.bbl
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--115
+
+ []
+
+<figs/socialDataset.png, id=13, 817.55438pt x 354.57469pt>
+File: figs/socialDataset.png Graphic file (type png)
+<use figs/socialDataset.png>
+Package pdftex.def Info: figs/socialDataset.png  used on input line 118.
+(pdftex.def)             Requested size: 277.96481pt x 120.55379pt.
+
+Overfull \hbox (25.96481pt too wide) in paragraph at lines 118--119
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+
+ []
+
+[2 <./figs/Lfunction.png> <./figs/socialDataset.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 145--151
+
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 145--151
+\OT1/ptm/m/n/10 The fig-ures be-low show the Age and Es-ti-mat-ed-Salary
+ []
+
+<figs/beforeFscaling.png, id=23, 520.19344pt x 387.69844pt>
+File: figs/beforeFscaling.png Graphic file (type png)
+<use figs/beforeFscaling.png>
+Package pdftex.def Info: figs/beforeFscaling.png  used on input line 154.
+(pdftex.def)             Requested size: 208.07368pt x 155.07661pt.
+<figs/AfterFscaling.png, id=24, 599.99156pt x 383.93437pt>
+File: figs/AfterFscaling.png Graphic file (type png)
+<use figs/AfterFscaling.png>
+Package pdftex.def Info: figs/AfterFscaling.png  used on input line 161.
+(pdftex.def)             Requested size: 239.99237pt x 153.57101pt.
+<figs/classTraining.png, id=25, 1202.99437pt x 691.08188pt>
+File: figs/classTraining.png Graphic file (type png)
+<use figs/classTraining.png>
+Package pdftex.def Info: figs/classTraining.png  used on input line 172.
+(pdftex.def)             Requested size: 276.68288pt x 158.94548pt.
+
+Overfull \hbox (24.68288pt too wide) in paragraph at lines 172--173
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--184
+
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 178--184
+\OT1/ptm/m/n/10 1. True Pos-i-tive (TP): pre-dicted value is pos-i-tive, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--184
+
+ []
+
+<figs/confusionMatrix.png, id=26, 509.65407pt x 362.10281pt>
+File: figs/confusionMatrix.png Graphic file (type png)
+<use figs/confusionMatrix.png>
+Package pdftex.def Info: figs/confusionMatrix.png  used on input line 187.
+(pdftex.def)             Requested size: 290.50583pt x 206.40074pt.
+
+Overfull \hbox (38.50583pt too wide) in paragraph at lines 187--188
+ [][] 
+ []
+
+[3 <./figs/beforeFscaling.png> <./figs/AfterFscaling.png> <./figs/classTraining
+.png> <./figs/confusionMatrix.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 200--203
+
+ []
+
+<figs/classTest.png, id=34, 1245.9047pt x 706.13812pt>
+File: figs/classTest.png Graphic file (type png)
+<use figs/classTest.png>
+Package pdftex.def Info: figs/classTest.png  used on input line 211.
+(pdftex.def)             Requested size: 261.6477pt x 148.29338pt.
+
+Overfull \hbox (9.6477pt too wide) in paragraph at lines 211--212
+ [][] 
+ []
+
+<figs/matrix.png, id=35, 143.03438pt x 80.55093pt>
+File: figs/matrix.png Graphic file (type png)
+<use figs/matrix.png>
+Package pdftex.def Info: figs/matrix.png  used on input line 220.
+(pdftex.def)             Requested size: 101.5551pt x 57.19156pt.
+<figs/PredictL.png, id=36, 603.0028pt x 454.69875pt>
+File: figs/PredictL.png Graphic file (type png)
+<use figs/PredictL.png>
+Package pdftex.def Info: figs/PredictL.png  used on input line 234.
+(pdftex.def)             Requested size: 283.41135pt x 213.70844pt.
+
+Overfull \hbox (31.41135pt too wide) in paragraph at lines 234--235
+ [][] 
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 248--253
+\OT1/ptm/m/n/10 other clas-si-fi-ca-tion ma-chine learn-ing al-go-rithms across
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--253
+
+ []
+
+(LogisticRegression.bbl [4 <./figs/classTest.png> <./figs/matrix.png> <./figs/P
+redictL.png>]
 Underfull \hbox (badness 5446) in paragraph at lines 50--57
 \OT1/ptm/m/n/8 : In-ter-na-tional work-shop on ar-ti-fi-cial neu-ral net-works,
  malaga-
@@ -362,28 +513,33 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2 <./figs/Lfunction.png>] (LogisticRegression.aux) ) 
+[5
+
+] (LogisticRegression.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3903 strings out of 479334
- 56266 string characters out of 2866960
- 361282 words of memory out of 3000000
- 21333 multiletter control sequences out of 15000+200000
+ 3954 strings out of 479334
+ 57373 string characters out of 2866960
+ 360348 words of memory out of 3000000
+ 21377 multiletter control sequences out of 15000+200000
  435632 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,74p,674b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX/f
-onts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pf
-b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
- Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utm
-b8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program 
-Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/ty
-pe1/urw/times/utmri8a.pfb>
-Output written on LogisticRegression.pdf (2 pages, 124566 bytes).
+ 68i,8n,74p,1045b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKT
+eX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/ti
+mes/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on LogisticRegression.pdf (5 pages, 374871 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
