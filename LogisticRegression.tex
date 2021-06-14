@@ -27,16 +27,19 @@ pena.benafa@stud.hshl.de}
 \maketitle
 
 \begin{abstract}
-
+This seminar paper is an overview of logistic regression, one of the most used tools for predicting categorical outcomes. 
+It uses a type of curve to fit data, and it describes the data and relationship between dependent variables and independent variables \cite{ab2}.
+The main advantage of logistic regression is that it can predict the associated probability (this can be seen from the example given in this paper).
 \end{abstract}
 
 \begin{IEEEkeywords}
-component, formatting, style, styling, insert
+logistic regression, predicting, dependent variables, independent variables, data
 \end{IEEEkeywords}
 
 \section{Introduction}
-The pioneer of machine learning (ML) defined ML as a "field of study that gives the computer the ability to learn without being explicitly programmed\cite{bb1}. ML is a subset of Artificial Intelligence with roots in computational statistics, which focus on using computers to make predictions. Like humans that learn from experiences, the objective in ML is to create mathematical models that can be trained to make useful outputs (predictions) when fed with input or training data experiences). From these experiences, the ML models are tuned by an optimization
-algorithm to produce accurate predictions. The ML models are able to generalize what they have learned from the training data (previous experience) so that they can make accurate predictions for new and unseen data\cite{bb2}.
+The pioneer of machine learning (ML) defined ML as a "field of study that gives the computer the ability to learn without being explicitly programmed"\cite{bb1}. ML is a subset of Artificial Intelligence with roots in computational statistics, focusing on using computers to make predictions. Like humans that learn from experiences, the objective in ML is to create mathematical models that can be trained to make useful outputs (predictions) when fed with input or training data experiences). From these experiences, the ML models are tuned by an optimization
+algorithm to produce accurate predictions. In addition, the ML models can generalize what they have learned from the training data (previous experience) so that they can make accurate predictions for new and unseen data\cite{bb2}.
+An in-depth explanation and all the techniques in determining logistic regression percentage accuracy are discussed in section 2. Finally, section 3 concludes this seminar paper. 
 
 \subsection{Types of Machine Learning Algorithms}
 There are different types of ML algorithms that exist and are used to solve a variety of problems. Based on the types of problems being solved, ML algorithms can be grouped into three: supervised learning, unsupervised learning and reinforcement learning.
@@ -122,7 +125,7 @@ Purchase —: purchase information about the user whether he/she purchased the a
 
 
 \subsubsection{Independent Variables (x)}
-The independent variable shown in the fig 2, are the Age and Estimated Salary. This is 
+The independent variable shown in the fig 2, are the Age and Estimated Salary. These variables do not depend on other variables.
 
 \subsubsection{Dependent Variables (y)}
 The y variable is completely depended on x variables and from fig 2 above, the purchased column is the dependent variable, as it has two classes 0 and 1.\\
@@ -246,7 +249,7 @@ The confusion matrix gives the following:\\
 
 
 \section{Conclusion}
-There are countless use cases of logistic regression and other classification machine learning algorithms across multiple industries and sectors. In the example, our model was able to predict whether social network user will buy a certain product via network given their age and estimated salary. Note that this example is an oversimplified version of what is obtainable in a real social network like Instagram, Twitter  or Facebook. In the real-life situation, there might not be an estimated salary; however, there would be a lot more independent variables that might include: race, employment histories, political interests, religion, sports interests and affiliations, time spent on the network per day, likes given to different posts, number of ads viewed, number of friends and family, and different information from friends and families e.t.c.\\
+There are countless use cases of logistic regression and other classification machine learning algorithms across multiple industries and sectors. In the example,  the model I used was able to predict whether social network user will buy a certain product via network given their age and estimated salary. Note that this example is an oversimplified version of what is obtainable in a real social network like Instagram, Twitter  or Facebook. In the real-life situation, there might not be an estimated salary; however, there would be a lot more independent variables that might include: race, employment histories, political interests, religion, sports interests and affiliations, time spent on the network per day, likes given to different posts, number of ads viewed, number of friends and family, and different information from friends and families e.t.c.\\
 Although in the coding example, the obtained accuracy was 0.82, which is good. It might not be the best we can possibly get for this dataset. Changing the training set and test set split ratio to 80/20 might improve the result or using another classification machine learning algorithms as kNN, SVC, Decision Trees, Random Forest e.t.c. It is known that no single algorithm is better than all the others on all the problems; however, certain algorithms stand up tall in certain problem\cite{bb6}. Thus, it is possible that logistic regression might not be the best for the problem in solved in the coding example.\\
 \\
 The code and dataset used for the coding example are available in:
