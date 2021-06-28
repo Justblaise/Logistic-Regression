@@ -109,7 +109,7 @@ x0 = value of x at sigmoid's midpoint\\
 The maximum value of f(x) is obtained when it approaches L, that is when x approaches $+\infty$. And the minimum value of f(x) is obtained when it approaches zero, that is when x approaches $-\infty$.
 
 \subsection{Making Predictions (Example on Binary Logistic Regression)}
-The dataset used for this coding example, is simple social network advert datasets, that contains 5 columns: UserID, Gender, Age, Estimated Salary and Purchase.\\
+The dataset (social network ad \cite{cc5} ) used for this coding example was gotten from kaggle website. It is simple social network advert datasets, that contains 5 columns: UserID, Gender, Age, Estimated Salary and Purchase.There are 401 samples with the aim to train and test set the prediction.\\
 \\
 UserID —: the social network's user's ID\\
 Gender —: gender of the user\\
@@ -120,7 +120,7 @@ Purchase —: purchase information about the user whether he/she purchased the a
 \begin{figure}[h]
     \centering
     \includegraphics[scale=0.34]{figs/socialDataset.png}
-    \caption{First five rows of the social network ad dataset}
+    \caption{First five rows of the social network ad dataset \cite{cc5}}
     \label{dabc}        
 \end{figure}
 
@@ -241,22 +241,53 @@ The confusion matrix gives the following:\\
     \label{dabc}        
 \end{figure}
 
+\section{Advantages and Disadvantages of Logistic Regression}
+\subsection{Advantages}
 
-%\subsubsection{Decision Boundary}
-%\section{Cost Function and Gradient Descent}
-%\section{Over fitting Problem}
-%\subsection{Under Fitting}
-%\subsection{Over Fitting}
+\subsubsection{Easier to Implement}
+Logistic regression requires less computation power because of its mathematical foundation. Therefore, it is easy to train and implement as compared to other methods.
+
+\subsubsection{Probability Prediction}
+Depending on the required output, logistic regression can be used to classify labels and predict the probability of an outcome. An example of such an application usage is Google reCAPTCHA V3 (uses advanced risk analysis techniques to predict humans from bots\cite{cc6}).
+
+\subsubsection{Unlikely to Overfit}
+Unless high dimensional datasets, logistic regression is less inclined to over-fitting. Also, in high dimensional datasets, with the use of regularization techniques, over-fitting can be avoided \cite{cc7}. 
+
+\subsubsection{Large Dataset}
+Logistic Regression can be used to classify large dataset very fast and reliable, unlike other ML algorithms such as SVMs, kNNs etc.
+
+\subsubsection{Classification of Unknown Records}
+Logistic regression can be used to classify unknown record, and the accuracy is perfect, especially when the dataset is low dimensional datasets (dataset features).
+
+\subsection{Disadvantages}
+
+\subsubsection{Possibility of Over-fitting}
+On high dimensional datasets, there is a high possibility that over-fitting may occur. This will result in the model not predicting accurate results on the test set due to overstating the accuracy of predictions on the training set \cite{cc8}. This usually occurs when there are many features in the dataset, and the model is trained on little training data. Regularization techniques are used to avoid over-fitting, but this can lead to an under-fit on the training data.
+
+\subsubsection{Predict Only Discrete Functions}
+Logistic regression can only be used to predict discrete functions. In order words, the Logistic Regression dependent variable is bound to the discrete number set \cite{cc7}.
+
+\subsubsection{Limited Use Case}
+Unlike other algorithms methods such as SVMs, Naive Bayes, Random Forests, kNN etc., logistic regression is limited to classification methods, and it requires the independent variables to be linearly related to the log odds (log(p/(1-p)) \cite{cc7}, and \cite{cc8}. Logistic regression can not be used to predict the continuous outcome. An example is the prediction of an increase in a patient’s body temperature. 
+
+
+
+
 
 
 \section{Conclusion}
-There are countless use cases of logistic regression and other classification machine learning algorithms across multiple industries and sectors. In the example,  the model I used could predict whether social network users will buy a particular product via network given their age and estimated salary. The example used is an oversimplified version of what is obtainable in a real social network like Instagram, Twitter or Facebook. In the real-life situation, there might not be an estimated salary; however, there would be a lot more independent variables that might include: race, employment histories, political interests, religion, sports interests and affiliations, time spent on the network per day, likes given to different posts, number of ads viewed, number of friends and family, and other information from friends and families e.t.c.\\
+There are countless use cases of logistic regression and other classification machine learning algorithms across multiple industries and sectors. In the example, the model I used could predict whether social network users will buy a particular product via network given their age and estimated salary. The example used is an oversimplified version of what is obtainable in a real social network like Instagram, Twitter or Facebook. In the real-life situation, there might not be an estimated salary; however, there would be a lot more independent variables that might include: race, employment histories, political interests, religion, sports interests and affiliations, time spent on the network per day, likes given to different posts, number of ads viewed, number of friends and family, and other information from friends and families e.t.c.\\
 Although in the coding example, the obtained accuracy was 0.82, which is good. It might not be the best we can get for this dataset. Changing the training set and test set split ratio to 80/20 might improve the result or using another classification machine learning algorithms as kNN, SVC, Decision Trees, Random Forest e.t.c. It is known that no single algorithm is better than all the others on all the problems; however, certain algorithms stand up tall in certain problem\cite{bb6}. Thus, it is possible that logistic regression might not be the best for the problem in solved in the coding example.\\
 \\
 The code and dataset used for the coding example are available in:
 https://github.com/Justblaise/Logistic-Regression
 
-\section*{Acknowledgement}
+
+
+\section*{Affidavit}
+I Pena Benafa herewith declare that I have composed the present paper and work by myself and without use of any other than the cited sources and aids. Sentences or parts of sentences quoted literally are marked as such; other references with regard to the statement and scope are indicated by full details of the publications concerned. The paper and work in the same or similar form has not been submitted to any examination body and has not been published. This paper was not yet, even in part, used in another examination or as a course performance.
+
+%\section*{Acknowledgement}
 
 
 %\section*{References}

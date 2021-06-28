@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  28 JUN 2021 05:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  28 JUN 2021 20:30
 entering extended mode
 **./LogisticRegression.tex
 (LogisticRegression.tex
@@ -390,6 +390,9 @@ File: figs/AfterFscaling.png Graphic file (type png)
 <use figs/AfterFscaling.png>
 Package pdftex.def Info: figs/AfterFscaling.png  used on input line 165.
 (pdftex.def)             Requested size: 234.5722pt x 151.16206pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 <figs/classTraining.png, id=25, 1129.97156pt x 639.13782pt>
 File: figs/classTraining.png Graphic file (type png)
 <use figs/classTraining.png>
@@ -399,6 +402,9 @@ Package pdftex.def Info: figs/classTraining.png  used on input line 176.
 Overfull \hbox (7.88799pt too wide) in paragraph at lines 176--177
  [][] 
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 182--188
@@ -456,32 +462,31 @@ Overfull \hbox (7.35147pt too wide) in paragraph at lines 239--240
  [][] 
  []
 
-
-Underfull \hbox (badness 4819) in paragraph at lines 253--258
+[4 <./figs/classTest.png> <./figs/matrix.png> <./figs/PredictL.png>]
+Underfull \hbox (badness 4819) in paragraph at lines 279--284
 \OT1/ptm/m/n/10 other clas-si-fi-ca-tion ma-chine learn-ing al-go-rithms across
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--258
+Underfull \hbox (badness 10000) in paragraph at lines 279--284
 
  []
 
-(LogisticRegression.bbl [4 <./figs/classTest.png> <./figs/matrix.png> <./figs/P
-redictL.png>]
-Underfull \hbox (badness 5446) in paragraph at lines 55--62
+(LogisticRegression.bbl
+Underfull \hbox (badness 3646) in paragraph at lines 55--62
 \OT1/ptm/m/n/8 : In-ter-na-tional work-shop on ar-ti-fi-cial neu-ral net-works,
  malaga-
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 55--62
+Underfull \hbox (badness 1383) in paragraph at lines 55--62
 \OT1/ptm/m/n/8 torremolinos, spain, june 7-9, 1995 : pro-ceed-ings : In-ter-na-
 tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--62
+Underfull \hbox (badness 6001) in paragraph at lines 55--62
 \OT1/ptm/m/n/8 work-shop on ar-ti-fi-cial neu-ral net-works (1995 : Tor-re-moli
 -nos,
  []
@@ -493,9 +498,26 @@ de/2up,
  []
 
 
-Overfull \hbox (19.4933pt too wide) in paragraph at lines 64--67
+Overfull \hbox (23.4933pt too wide) in paragraph at lines 64--67
 []\OT1/ptm/m/n/8 Wikipedia, ``Sig-moid func-tion,'' https://en.wikipedia.org/wi
 ki/Sigmoid[]function,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+[]\OT1/ptm/m/n/8 R. Raushan, ``So-cial net-work ads | kag-gle,''
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 74--76
+[]\OT1/ptm/m/n/8 G. De-vel-op-ers, ``re-captcha,'' https://developers.google.co
+m/recaptcha,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+\OT1/ptm/m/n/8 https://iq.opengenus.org/advantages-and-disadvantages-of-logisti
+c-
  []
 
 )
@@ -510,18 +532,16 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5
-
-] (LogisticRegression.aux)
+[5] (LogisticRegression.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3955 strings out of 479334
- 57378 string characters out of 2866960
- 362351 words of memory out of 3000000
- 21378 multiletter control sequences out of 15000+200000
+ 3959 strings out of 479334
+ 57398 string characters out of 2866960
+ 363367 words of memory out of 3000000
+ 21382 multiletter control sequences out of 15000+200000
  435632 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,8n,74p,1054b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -534,7 +554,7 @@ am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKT
 eX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/ti
 mes/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/P
 rogram Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on LogisticRegression.pdf (5 pages, 369029 bytes).
+Output written on LogisticRegression.pdf (5 pages, 372398 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
