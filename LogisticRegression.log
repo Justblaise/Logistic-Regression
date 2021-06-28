@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  14 JUN 2021 02:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.24)  28 JUN 2021 05:20
 entering extended mode
 **./LogisticRegression.tex
 (LogisticRegression.tex
@@ -310,10 +310,8 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-
-LaTeX Warning: Citation `ab2' on page 1 undefined on input line 31.
-
 LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -335,176 +333,167 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 <figs/Lfunction.png, id=11, 414.04688pt x 277.78781pt>
 File: figs/Lfunction.png Graphic file (type png)
 <use figs/Lfunction.png>
-Package pdftex.def Info: figs/Lfunction.png  used on input line 92.
+Package pdftex.def Info: figs/Lfunction.png  used on input line 93.
 (pdftex.def)             Requested size: 256.7064pt x 172.22664pt.
 
-Overfull \hbox (4.7064pt too wide) in paragraph at lines 92--93
+Overfull \hbox (4.7064pt too wide) in paragraph at lines 93--94
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--107
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--118
+Underfull \hbox (badness 10000) in paragraph at lines 112--119
 
  []
 
 <figs/socialDataset.png, id=13, 776.14969pt x 316.93407pt>
 File: figs/socialDataset.png Graphic file (type png)
 <use figs/socialDataset.png>
-Package pdftex.def Info: figs/socialDataset.png  used on input line 121.
+Package pdftex.def Info: figs/socialDataset.png  used on input line 122.
 (pdftex.def)             Requested size: 263.8874pt x 107.75615pt.
 
-Overfull \hbox (11.8874pt too wide) in paragraph at lines 121--122
+Overfull \hbox (11.8874pt too wide) in paragraph at lines 122--123
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--136
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--136
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
 
  []
 
 [2 <./figs/Lfunction.png> <./figs/socialDataset.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 148--154
+Underfull \hbox (badness 10000) in paragraph at lines 149--155
 
  []
 
 
-Underfull \hbox (badness 2521) in paragraph at lines 148--154
+Underfull \hbox (badness 2521) in paragraph at lines 149--155
 \OT1/ptm/m/n/10 The fig-ures be-low show the Age and Es-ti-mat-ed-Salary
  []
 
 <figs/beforeFscaling.png, id=23, 415.5525pt x 378.66469pt>
 File: figs/beforeFscaling.png Graphic file (type png)
 <use figs/beforeFscaling.png>
-Package pdftex.def Info: figs/beforeFscaling.png  used on input line 157.
+Package pdftex.def Info: figs/beforeFscaling.png  used on input line 158.
 (pdftex.def)             Requested size: 166.21805pt x 151.46318pt.
 <figs/AfterFscaling.png, id=24, 586.44093pt x 377.91188pt>
 File: figs/AfterFscaling.png Graphic file (type png)
 <use figs/AfterFscaling.png>
-Package pdftex.def Info: figs/AfterFscaling.png  used on input line 164.
+Package pdftex.def Info: figs/AfterFscaling.png  used on input line 165.
 (pdftex.def)             Requested size: 234.5722pt x 151.16206pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <figs/classTraining.png, id=25, 1129.97156pt x 639.13782pt>
 File: figs/classTraining.png Graphic file (type png)
 <use figs/classTraining.png>
-Package pdftex.def Info: figs/classTraining.png  used on input line 175.
+Package pdftex.def Info: figs/classTraining.png  used on input line 176.
 (pdftex.def)             Requested size: 259.88799pt x 146.9986pt.
 
-Overfull \hbox (7.88799pt too wide) in paragraph at lines 175--176
+Overfull \hbox (7.88799pt too wide) in paragraph at lines 176--177
  [][] 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--187
+Underfull \hbox (badness 10000) in paragraph at lines 182--188
 
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 181--187
+Underfull \hbox (badness 1810) in paragraph at lines 182--188
 \OT1/ptm/m/n/10 1. True Pos-i-tive (TP): pre-dicted value is pos-i-tive, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--187
+Underfull \hbox (badness 10000) in paragraph at lines 182--188
 
  []
 
 <figs/confusionMatrix.png, id=26, 424.58624pt x 328.97906pt>
 File: figs/confusionMatrix.png Graphic file (type png)
 <use figs/confusionMatrix.png>
-Package pdftex.def Info: figs/confusionMatrix.png  used on input line 190.
+Package pdftex.def Info: figs/confusionMatrix.png  used on input line 191.
 (pdftex.def)             Requested size: 242.01666pt x 187.52pt.
-
-Underfull \vbox (badness 6741) has occurred while \output is active []
-
- [3 <./figs/beforeFscaling.png> <./figs/AfterFscaling.png> <./figs/classTrainin
-g.png> <./figs/confusionMatrix.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 203--206
+[3 <./figs/beforeFscaling.png> <./figs/AfterFscaling.png> <./figs/classTraining
+.png> <./figs/confusionMatrix.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 204--207
 
  []
 
 <figs/classTest.png, id=34, 1121.69063pt x 640.64343pt>
 File: figs/classTest.png Graphic file (type png)
 <use figs/classTest.png>
-Package pdftex.def Info: figs/classTest.png  used on input line 214.
+Package pdftex.def Info: figs/classTest.png  used on input line 215.
 (pdftex.def)             Requested size: 235.56198pt x 134.53908pt.
 <figs/matrix.png, id=35, 135.50626pt x 68.50594pt>
 File: figs/matrix.png Graphic file (type png)
 <use figs/matrix.png>
-Package pdftex.def Info: figs/matrix.png  used on input line 223.
+Package pdftex.def Info: figs/matrix.png  used on input line 224.
 (pdftex.def)             Requested size: 96.2101pt x 48.63954pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--234
+Underfull \hbox (badness 10000) in paragraph at lines 229--235
 
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 228--234
+Underfull \hbox (badness 1596) in paragraph at lines 229--235
 \OT1/ptm/m/n/10 1. At the top left, it shows that the sys-tem cor-rectly
  []
 
 <figs/PredictL.png, id=36, 551.81157pt x 440.39531pt>
 File: figs/PredictL.png Graphic file (type png)
 <use figs/PredictL.png>
-Package pdftex.def Info: figs/PredictL.png  used on input line 238.
+Package pdftex.def Info: figs/PredictL.png  used on input line 239.
 (pdftex.def)             Requested size: 259.35147pt x 206.98581pt.
 
-Overfull \hbox (7.35147pt too wide) in paragraph at lines 238--239
+Overfull \hbox (7.35147pt too wide) in paragraph at lines 239--240
  [][] 
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 252--257
+Underfull \hbox (badness 4819) in paragraph at lines 253--258
 \OT1/ptm/m/n/10 other clas-si-fi-ca-tion ma-chine learn-ing al-go-rithms across
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--257
+Underfull \hbox (badness 10000) in paragraph at lines 253--258
 
  []
 
-[4 <./figs/classTest.png> <./figs/matrix.png> <./figs/PredictL.png>]
-(LogisticRegression.bbl
-Underfull \hbox (badness 5446) in paragraph at lines 50--57
+(LogisticRegression.bbl [4 <./figs/classTest.png> <./figs/matrix.png> <./figs/P
+redictL.png>]
+Underfull \hbox (badness 5446) in paragraph at lines 55--62
 \OT1/ptm/m/n/8 : In-ter-na-tional work-shop on ar-ti-fi-cial neu-ral net-works,
  malaga-
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 50--57
+Underfull \hbox (badness 2237) in paragraph at lines 55--62
 \OT1/ptm/m/n/8 torremolinos, spain, june 7-9, 1995 : pro-ceed-ings : In-ter-na-
 tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--57
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
 \OT1/ptm/m/n/8 work-shop on ar-ti-fi-cial neu-ral net-works (1995 : Tor-re-moli
 -nos,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--57
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
 \OT1/ptm/m/n/8 https://archive.org/details/fromnaturaltoart1995inte/page/194/mo
 de/2up,
  []
 
 
-Overfull \hbox (19.4933pt too wide) in paragraph at lines 59--62
+Overfull \hbox (19.4933pt too wide) in paragraph at lines 64--67
 []\OT1/ptm/m/n/8 Wikipedia, ``Sig-moid func-tion,'' https://en.wikipedia.org/wi
 ki/Sigmoid[]function,
  []
@@ -525,20 +514,17 @@ Before submitting the final camera ready copy, remember to:
 
 ] (LogisticRegression.aux)
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3956 strings out of 479334
- 57388 string characters out of 2866960
- 361348 words of memory out of 3000000
- 21379 multiletter control sequences out of 15000+200000
+ 3955 strings out of 479334
+ 57378 string characters out of 2866960
+ 362351 words of memory out of 3000000
+ 21378 multiletter control sequences out of 15000+200000
  435632 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,74p,1045b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,8n,74p,1054b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
@@ -548,7 +534,7 @@ am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKT
 eX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/ti
 mes/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/P
 rogram Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on LogisticRegression.pdf (5 pages, 368914 bytes).
+Output written on LogisticRegression.pdf (5 pages, 369029 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

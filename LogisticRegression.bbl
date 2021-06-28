@@ -21,6 +21,11 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{ab2}
+M.~Maalouf, ``Logistic regression in data analysis: an overview,''
+  \emph{International Journal of Data Analysis Techniques and Strategies},
+  vol.~3, no.~3, pp. 281--299, 2011.
+
 \bibitem{bb1}
 Y.~Xin, L.~Kong, Z.~Liu, Y.~Chen, Y.~Li, H.~Zhu, M.~Gao, H.~Hou, and C.~Wang,
   ``Machine learning and deep learning methods for cybersecurity,'' \emph{Ieee
